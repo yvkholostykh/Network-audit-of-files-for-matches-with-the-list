@@ -1,0 +1,7 @@
+cd C:\Users\kholostykh.iuv\Desktop\FileAuditor
+python3 FileAuditorFinal2.py
+
+\\Имя сервера IP....\Shares\Имя папки
+
+ C:\Users\kholostykh.iuv\Desktop\FileAuditor\the keyword file.txt
+
